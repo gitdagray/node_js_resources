@@ -25,7 +25,7 @@
 
 ### Description
 
-📺 [YouTube Tutorial]() for this repository.
+📺 [YouTube Tutorial](https://youtu.be/f2EqECiTBL8) for this repository.
 
 🚀 This repository shares ALL of the resources referenced during the 7 hour Youtube tutorial.
 
